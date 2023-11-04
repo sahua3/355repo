@@ -1,7 +1,7 @@
 public class myClass{
     public void doingMath(int x, int y){
-        System.void.println("Your first number: " + x);
-        System.void.println("Your second number: " + y);
-        System.void.println("x + y = " + (x+y));
+        System.out.println("Your first number: " + x);
+        System.out.println("Your second number: " + y);
+        System.out.println("x + y = " + (x+y));
     }
 }
